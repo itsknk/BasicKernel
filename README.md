@@ -20,6 +20,7 @@ There are two ways to run the Kernel.
 }
 ```
 Here hd0,5 is sda/sda5, set accordingly. Then reboot.
+
 2. If you've installed qemu then you can run this in the virtual machine using the command: `qemu-system-i386 -kernel kernel-001`. 
 
 ## License
